@@ -1,5 +1,5 @@
 
-## Crypto Currency Information
+## Crypto-Viz
 
 A react app bootstrapped using create-react-app. It uses https://coinmarketcap.com/api/documentation/v1/#operation/getV1CryptocurrencyListingsLatest crypto API to fetch some useful data and display it.
 
